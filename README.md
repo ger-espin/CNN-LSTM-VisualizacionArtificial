@@ -164,18 +164,13 @@ greedy_decode(...)
 
 **v1:**
 
-```
 <img width="848" height="654" alt="Captura de pantalla 2026-05-05 142400" src="https://github.com/user-attachments/assets/f69d229e-85f1-45f0-8475-ffce8a45149a" />
 
 
-```
-
 **v2:**
 
-```
 <img width="989" height="202" alt="Captura de pantalla 2026-05-05 142459" src="https://github.com/user-attachments/assets/7b3e48d4-6ec4-43f5-8929-41d9141f5079" />
 
-```
 ---
 
 
