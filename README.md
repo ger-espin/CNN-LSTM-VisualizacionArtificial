@@ -173,10 +173,9 @@ greedy_decode(...)
 
 ```
 <img width="848" height="654" alt="image" src="https://github.com/user-attachments/assets/ef32fd32-2f0d-4fc2-adb2-ba0c3bc26832" />
-
+```
 ---
 
----
 
 ## 📈 Entrenamiento
 
