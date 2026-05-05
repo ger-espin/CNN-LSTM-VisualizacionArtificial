@@ -165,14 +165,16 @@ greedy_decode(...)
 **v1:**
 
 ```
-<img width="989" height="202" alt="image" src="https://github.com/user-attachments/assets/dfb4e4ca-b53c-4863-bcfb-295d19cefe62" />
+<img width="848" height="654" alt="Captura de pantalla 2026-05-05 142400" src="https://github.com/user-attachments/assets/f69d229e-85f1-45f0-8475-ffce8a45149a" />
+
 
 ```
 
 **v2:**
 
 ```
-<img width="848" height="654" alt="image" src="https://github.com/user-attachments/assets/ef32fd32-2f0d-4fc2-adb2-ba0c3bc26832" />
+<img width="989" height="202" alt="Captura de pantalla 2026-05-05 142459" src="https://github.com/user-attachments/assets/7b3e48d4-6ec4-43f5-8929-41d9141f5079" />
+
 ```
 ---
 
@@ -181,9 +183,11 @@ greedy_decode(...)
 
 Incluye gráficas en:
 
-* `<img width="691" height="475" alt="image" src="https://github.com/user-attachments/assets/ed19e552-d7e9-45c8-a1fc-df58871e52be" />
+* `<img width="691" height="475" alt="descarga (1)" src="https://github.com/user-attachments/assets/c45c80a0-8c64-4082-9767-ce7a6fde46f2" />
+
 `
-* `<img width="708" height="475" alt="image" src="https://github.com/user-attachments/assets/eb67cda8-ff49-412a-887d-e500d4ae96c0" />
+* `<img width="708" height="475" alt="descarga" src="https://github.com/user-attachments/assets/fa2bd223-8c72-44e9-9752-f478fd4967ec" />
+
 `
 
 Observaciones:
