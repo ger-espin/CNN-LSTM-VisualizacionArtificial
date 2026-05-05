@@ -202,21 +202,6 @@ Observaciones:
 
 ---
 
-## 📁 Estructura del Proyecto
-
-```bash
-.
-├── data/
-├── models/
-├── notebooks/
-├── docs/
-│   └── images/
-├── src/
-├── README.md
-```
-
----
-
 ## 🧪 Aprendizajes Clave
 
 * Encoder–decoder mejora significativamente tareas secuenciales
